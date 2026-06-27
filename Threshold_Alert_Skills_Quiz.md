@@ -1,6 +1,6 @@
 # Threshold Alert — Embedded Systems Skills Quiz
 
-*ACES KNUST — Embedded Systems Club*
+*ACES KNUST — Arduino  Club*
 
 A self-paced practice build: wire a potentiometer, an RGB LED, and a buzzer — then write the logic yourself. No code is provided here on purpose. This is a check of what you actually understand, not a copy-paste exercise.
 
